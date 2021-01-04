@@ -34,7 +34,7 @@ Some of my data science projects covering important topics in Machine Learning a
 
 ### 08. Natural Language Processing  
 **Task:** Movie review sentiment classification  
-**Description:** The objective of this project is to predict the sentiment (positive or negative) of a IMDB movie review. 
+**Description:** The objective of this project is to predict the sentiment (positive or negative) of a IMDB movie review.  
 <br>
 **Task:** Sarcasm Detection  
 **Description:** The goal of this hands-on project is to analyse the headlines of the articles from news sources and detect whether they are sarcastic or not.  
