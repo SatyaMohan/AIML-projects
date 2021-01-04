@@ -1,4 +1,4 @@
-# AIML-projects
+# AIML Projects
 Some of my data science projects covering important topics in Machine Learning and Deep Learning  
   
 ### 01. Supervised Learning  
